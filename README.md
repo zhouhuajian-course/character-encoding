@@ -1,10 +1,21 @@
-### 9节课征服「字符编码」学习视频
+# 9节课征服「字符编码」
 
--------------------
+## 课程介绍
 
-[CSDN学院][1] [51CTO学院][2] [腾讯课堂][3] [网易云课堂][4]
+ASCII、GB2312、GBK、GB18030 字符集与字符编码
 
-[1]: https://edu.csdn.net/course/detail/30362
-[2]: https://edu.51cto.com/sd/1c7de
-[3]: https://ke.qq.com/course/3026372?tuin=50300886
-[4]: https://study.163.com/course/courseMain.htm?share=2&shareId=480000002227524&courseId=1210747815&_trace_c_p_k2_=feba89c6bbe74a75a06e3b1bc6502ec2
+Unicode 字符集与 UTF-8、UTF-16、UTF-32 字符编码
+
+![](画图资料/第1课%20字符、字符集、字符编号与字符编码.png)
+![](画图资料/第2课%20十进制、二进制与十六进制.png)
+![](画图资料/第3课%20ASCII字符集与字符编码.png)
+![](画图资料/第4课%20GB2312字符集与字符编码.png)
+![](画图资料/第5课%20GBK字符集与字符编码.png)
+![](画图资料/第6课%20GB18030字符集与字符编码.png)
+![](画图资料/第7课%20Unicode字符集.png)
+![](画图资料/第8课%20Unicode之UTF-8字符编码.png)
+![](画图资料/第9课%20Unicode之UTF-16、UTF-32字符编码.png)
+
+## 备注
+
+课程笔记等内容，在课程资料里面。
